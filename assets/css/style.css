@@ -1,0 +1,9 @@
+body {
+    background-color: aqua;
+    height: 100vh;
+}
+
+.jumbotron {
+    background-color: firebrick;
+    font-family: Arial;
+}
