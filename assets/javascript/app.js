@@ -60,16 +60,11 @@ const quizQuestions = [
 
 const funImages = [
     './assets/images/slide.gif',
-    './assets/images/hellYeah.gif',
-    './assets/images/winning.gif',
-    './assets/images/yeah.gif',
-    './assets/images/you did it.gif'
+    './assets/images/pardew.gif'
 ];
 
 const sadImages = [
-    './assets/images/danm.gif',
-    './assets/images/oops.gif',
-    './assets/images/pretty bad.gif'
+    './assets/images/mourinho.gif',
 ];
 
 // Initial values
