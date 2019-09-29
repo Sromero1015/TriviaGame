@@ -59,7 +59,7 @@ const quizQuestions = [
 ];
 
 const funImages = [
-    './assets/images/happy fun.gif',
+    './assets/images/slide.gif',
     './assets/images/hellYeah.gif',
     './assets/images/winning.gif',
     './assets/images/yeah.gif',
