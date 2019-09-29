@@ -21,7 +21,7 @@ const quizQuestions = [
 
     {
         question: "Which World Cup year was the 'VAR' system implemented?",
-        choices: ["2018", "1998", "2014", "2014"],
+        choices: ["2018", "1998", "2014", "2010"],
         correctAnswer: "2018"
     },
     {
