@@ -40,21 +40,21 @@ const quizQuestions = [
         correctAnswer: "Croatia"
     },
     {
-        question: "What is your favorite sports?",
-        choices: ["Soccer", "Baseball", "Footbal", "Swimming"],
-        correctAnswer: "Soccer"
+        question: "Who was the top goalscorer of the 2014 FIFA World Cup?",
+        choices: ["Lionel Messi", "James Rodriguez", "Thomas Muller", "Neymar"],
+        correctAnswer: "James Rodriguez"
     },
     {
-        question: "What is your favorite sports?",
-        choices: ["Soccer", "Baseball", "Footbal", "Swimming"],
-        correctAnswer: "Soccer"
+        question: "Who missed the decisive penalty that cost Italy the 1994 World Cup, losing to Brazil?",
+        choices: ["Roberto Baggio", "Paolo Maldini", "Franco Baresi", "Daniele Massaro"],
+        correctAnswer: "Roberto Baggio"
     },
     
 
     {
-        question: "What town did you live at?",
-        choices: ["Fort Liberte", "Ouanaminthe", "Petion Ville", "Delmas"],
-        correctAnswer: "Ouanaminthe"
+        question: "In what year was the FIFA World Cup group stage expanded from 24 teams to 32?",
+        choices: ["1994", "2002", "1998", "1990"],
+        correctAnswer: "1998"
     }
 ];
 

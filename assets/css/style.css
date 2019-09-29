@@ -1,9 +1,10 @@
 body {
-    background-color: aqua;
+    background-color: gold;
     height: 100vh;
 }
 
 .jumbotron {
-    background-color: firebrick;
+    background-color: url(../images/map-of-the-world.jpeg);
     font-family: Arial;
+    margin: 10px;
 }
